@@ -17,6 +17,8 @@ public class LargestOfTwoNumbers {
         } else {
             System.out.println("Both numbers are equal.");
         }
+        scanner.close(); 
+
     }
 }
     
